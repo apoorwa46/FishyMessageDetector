@@ -1,0 +1,31 @@
+🐟 Fishy / Spammy Messages (for testing):
+"Congratulations! You've won a brand new iPhone. Click here to claim now: http://bit.ly/free-iphone"
+Can you review the document and share your thoughts?
+"Your account has been suspended. Verify it immediately to avoid closure: http://fakebank.com/login"
+
+"Get rich quick! Make $5,000/week from home with no experience needed."
+
+"You have a pending tax refund. Submit your details here to receive it."
+
+"This is your final notice. Failure to respond will result in legal action."
+
+"Click here for a free Netflix subscription – only available today!"
+
+"Your computer is infected! Download antivirus now."
+
+"Urgent: Your PayPal account has been compromised. Log in to fix it now."
+
+"You’ve been selected for a cash prize. Reply with your bank info to claim."
+
+"Earn passive income with this once-in-a-lifetime crypto investment!"
+
+✅ Safe / Legit Messages (for contrast):
+"Hey, are we still on for lunch tomorrow?"
+
+"Don’t forget to bring the project report to the meeting."
+
+""
+
+"Happy birthday! Hope you have an amazing day 🎉"
+
+"Let me know if you need any help with the assignment."
