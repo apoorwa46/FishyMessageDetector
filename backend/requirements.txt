@@ -1,4 +1,6 @@
-flask
-flask-cors
+Flask
 scikit-learn
+numpy
+pandas
+nltk
 joblib
