@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     checkBtn.addEventListener('click', () => {
         const message = messageInput.value;
 
-        fetch('http://127.0.0.1:5000/predict', {
+        fetch('https://fishymessagedetector.onrender.com/predict', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
